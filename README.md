@@ -1,4 +1,4 @@
-##
+## Реактивная система которая не блокирует потоки, полностью.
 
 # Cards Hub evolution (JokerConf2017 demo)
 ## About
